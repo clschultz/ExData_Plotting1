@@ -1,5 +1,6 @@
-household_power_consumption.txt
 .Rproj.user
 .RData
 .Rhistory
 ExData_Plotting1.Rproj
+household_power_consumption_complete.txt
+plot4_temp.R
